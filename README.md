@@ -1,1 +1,3 @@
 # Spam-SMS-Detection
+
+ A machine-learning model capable of automatically detecting and classifying SMS messages as either spam or normal (HAM). By leveraging NLP techniques, the model will analyze the textual content of incoming messages and extract relevant features indicative of spam behavior, such as unusual word patterns, the presence of promotional language, and syntactic anomalies. Through the engineering of key features like word count, presence of currency symbols, and numerical content, the model will enhance its ability to discern between genuine and unwanted messages, thereby facilitating efficient SMS filtering and decluttering.
